@@ -3784,7 +3784,7 @@ p {
   }
 
   .hero {
-    background: transparent;
+    background: none;
     background-color: #EBF3F5;
     height: 100%;
   }
