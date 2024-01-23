@@ -4577,6 +4577,6 @@ p {
 
 .webp .page-hero{ background: url(../img/page-hero/page-hero-background.webp) center/cover no-repeat; }
 
-//.webp .hero{ background: url(../img/hero/hero-background.webp) center/cover no-repeat; }
+.webp .hero{ background: url(../img/hero/hero-background.webp) center/cover no-repeat; }
 
 .webp .error-page{ background: url(../img/404/404-background-.webp) center/cover no-repeat; }
